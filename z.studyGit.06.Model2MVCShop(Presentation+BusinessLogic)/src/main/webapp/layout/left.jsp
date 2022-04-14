@@ -4,7 +4,7 @@
 
 <html>
 <head>
-<title>Model2 MVC Shop</title>
+<title>! ! ! ! Model2 MVC Shop ! ! ! 안녕하세요! 반가워요! 다시만나요 헬로우 헬로우 나는 좀 행복 하고 싶어 </title>
 
 <link href="/css/left.css" rel="stylesheet" type="text/css">
 
